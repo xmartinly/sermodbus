@@ -1266,29 +1266,29 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       732         48          0          8         24      12437   adc.o
+       732         48          0          8         24      12345   adc.o
          0          0          0          0          0       4556   core_cm3.o
-       616         32          0         32      10240       3710   heap_4.o
-        56          6          0          0          0        471   led.o
-       148          0          0          0          0      11470   list.o
-       300         90          0          0          0       1182   main.o
-       220         22          0          0          0       3457   misc.o
-       390         30          0          4          0       6980   port.o
+       616         32          0         32      10240       3646   heap_4.o
+        56          6          0          0          0        447   led.o
+       148          0          0          0          0      11330   list.o
+       300         90          0          0          0       1158   main.o
+       220         22          0          0          0       3389   misc.o
+       390         30          0          4          0       6864   port.o
         36          8        236          0       1024        788   startup_stm32f10x_md.o
-      1102         26          0          0          0      28793   stm32f10x_adc.o
-       596          8          0          0          0      14170   stm32f10x_dma.o
-       860         38          0          0          0      14061   stm32f10x_gpio.o
-       932         36          0         20          0       8880   stm32f10x_rcc.o
-      3610         88          0          0          0      43164   stm32f10x_tim.o
-      1032         22          0          0          0      14480   stm32f10x_usart.o
-       480         38          0         20          0     203459   system_stm32f10x.o
-      4088        260          0         60        200      27713   tasks.o
-       272         14          0          0          0       2539   usart1.o
-      1084        200          0          4        200       3597   usart2.o
-      3216        132          0         22       1628       6446   usart3.o
+      1102         26          0          0          0      28697   stm32f10x_adc.o
+       596          8          0          0          0      14098   stm32f10x_dma.o
+       860         38          0          0          0      13997   stm32f10x_gpio.o
+       932         36          0         20          0       8808   stm32f10x_rcc.o
+      3610         88          0          0          0      43096   stm32f10x_tim.o
+      1032         22          0          0          0      14408   stm32f10x_usart.o
+       480         38          0         20          0     203363   system_stm32f10x.o
+      4088        260          0         60        200      27577   tasks.o
+       272         14          0          0          0       2519   usart1.o
+      1084        200          0          4        200       3529   usart2.o
+      3216        132          0         22       1628       6378   usart3.o
 
     ----------------------------------------------------------------------
-     19776       1098        268        172      13320     412353   Object Totals
+     19776       1098        268        172      13320     410993   Object Totals
          0          0         32          0          0          0   (incl. Generated)
          6          0          0          2          4          0   (incl. Padding)
 
@@ -1351,8 +1351,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     22290       1154        334        176      13320     411437   Grand Totals
-     22290       1154        334        176      13320     411437   ELF Image Totals
+     22290       1154        334        176      13320     410077   Grand Totals
+     22290       1154        334        176      13320     410077   ELF Image Totals
      22290       1154        334        176          0          0   ROM Totals
 
 ==============================================================================
