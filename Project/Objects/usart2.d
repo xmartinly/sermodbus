@@ -1,0 +1,15 @@
+.\objects\usart2.o: ..\Basic\usart\usart2.c
+.\objects\usart2.o: ..\Basic\usart\usart2.h
+.\objects\usart2.o: C:\Programs\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\usart2.o: ..\STM32F10x_Libs\inc\misc.h
+.\objects\usart2.o: ..\CMSIS\stm32f10x.h
+.\objects\usart2.o: ..\CMSIS\core_cm3.h
+.\objects\usart2.o: C:\Programs\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart2.o: ..\CMSIS\system_stm32f10x.h
+.\objects\usart2.o: ..\STM32F10x_Libs\inc\stm32f10x_gpio.h
+.\objects\usart2.o: ..\STM32F10x_Libs\inc\stm32f10x_rcc.h
+.\objects\usart2.o: ..\STM32F10x_Libs\inc\stm32f10x_tim.h
+.\objects\usart2.o: ..\STM32F10x_Libs\inc\stm32f10x_usart.h
+.\objects\usart2.o: C:\Programs\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\usart2.o: C:\Programs\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\usart2.o: ..\Basic\usart\usart3.h

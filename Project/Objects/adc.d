@@ -1,0 +1,15 @@
+.\objects\adc.o: ..\Basic\adc\adc.c
+.\objects\adc.o: ..\Basic\adc\adc.h
+.\objects\adc.o: ..\STM32F10x_Libs\inc\misc.h
+.\objects\adc.o: ..\CMSIS\stm32f10x.h
+.\objects\adc.o: ..\CMSIS\core_cm3.h
+.\objects\adc.o: C:\Programs\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc.o: ..\CMSIS\system_stm32f10x.h
+.\objects\adc.o: ..\STM32F10x_Libs\inc\stm32f10x_DMA.h
+.\objects\adc.o: ..\STM32F10x_Libs\inc\stm32f10x_adc.h
+.\objects\adc.o: ..\STM32F10x_Libs\inc\stm32f10x_gpio.h
+.\objects\adc.o: ..\STM32F10x_Libs\inc\stm32f10x_rcc.h
+.\objects\adc.o: ..\STM32F10x_Libs\inc\stm32f10x_tim.h
+.\objects\adc.o: ..\Basic\usart\usart3.h
+.\objects\adc.o: C:\Programs\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\adc.o: ..\STM32F10x_Libs\inc\stm32f10x_usart.h

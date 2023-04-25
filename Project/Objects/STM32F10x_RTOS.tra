@@ -1,0 +1,52 @@
+*** Creating Trace Output File '.\Objects\STM32F10x_RTOS.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\objects\core_cm3.o"'
+### List of Objects: adding '".\objects\system_stm32f10x.o"'
+### List of Objects: adding '".\objects\startup_stm32f10x_md.o"'
+### List of Objects: adding '".\objects\misc.o"'
+### List of Objects: adding '".\objects\stm32f10x_adc.o"'
+### List of Objects: adding '".\objects\stm32f10x_bkp.o"'
+### List of Objects: adding '".\objects\stm32f10x_can.o"'
+### List of Objects: adding '".\objects\stm32f10x_cec.o"'
+### List of Objects: adding '".\objects\stm32f10x_crc.o"'
+### List of Objects: adding '".\objects\stm32f10x_dac.o"'
+### List of Objects: adding '".\objects\stm32f10x_dbgmcu.o"'
+### List of Objects: adding '".\objects\stm32f10x_dma.o"'
+### List of Objects: adding '".\objects\stm32f10x_exti.o"'
+### List of Objects: adding '".\objects\stm32f10x_flash.o"'
+### List of Objects: adding '".\objects\stm32f10x_fsmc.o"'
+### List of Objects: adding '".\objects\stm32f10x_gpio.o"'
+### List of Objects: adding '".\objects\stm32f10x_i2c.o"'
+### List of Objects: adding '".\objects\stm32f10x_iwdg.o"'
+### List of Objects: adding '".\objects\stm32f10x_pwr.o"'
+### List of Objects: adding '".\objects\stm32f10x_rcc.o"'
+### List of Objects: adding '".\objects\stm32f10x_rtc.o"'
+### List of Objects: adding '".\objects\stm32f10x_sdio.o"'
+### List of Objects: adding '".\objects\stm32f10x_spi.o"'
+### List of Objects: adding '".\objects\stm32f10x_tim.o"'
+### List of Objects: adding '".\objects\stm32f10x_usart.o"'
+### List of Objects: adding '".\objects\stm32f10x_wwdg.o"'
+### List of Objects: adding '".\objects\list.o"'
+### List of Objects: adding '".\objects\queue.o"'
+### List of Objects: adding '".\objects\tasks.o"'
+### List of Objects: adding '".\objects\port.o"'
+### List of Objects: adding '".\objects\heap_4.o"'
+### List of Objects: adding '".\objects\usart1.o"'
+### List of Objects: adding '".\objects\main.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\objects\core_cm3.o" ".\objects\system_stm32f10x.o" ".\objects\startup_stm32f10x_md.o" ".\objects\misc.o" ".\objects\stm32f10x_adc.o" ".\objects\stm32f10x_bkp.o" ".\objects\stm32f10x_can.o" ".\objects\stm32f10x_cec.o" ".\objects\stm32f10x_crc.o" ".\objects\stm32f10x_dac.o" ".\objects\stm32f10x_dbgmcu.o" ".\objects\stm32f10x_dma.o" ".\objects\stm32f10x_exti.o" ".\objects\stm32f10x_flash.o" ".\objects\stm32f10x_fsmc.o" ".\objects\stm32f10x_gpio.o" ".\objects\stm32f10x_i2c.o" ".\objects\stm32f10x_iwdg.o" ".\objects\stm32f10x_pwr.o" ".\objects\stm32f10x_rcc.o" ".\objects\stm32f10x_rtc.o" ".\objects\stm32f10x_sdio.o" ".\objects\stm32f10x_spi.o" ".\objects\stm32f10x_tim.o" ".\objects\stm32f10x_usart.o" ".\objects\stm32f10x_wwdg.o" ".\objects\list.o" ".\objects\queue.o" ".\objects\tasks.o" ".\objects\port.o" ".\objects\heap_4.o" ".\objects\usart1.o" ".\objects\main.o" 
+--library_type=microlib --strict --scatter ".\Objects\STM32F10x_RTOS.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Listings\STM32F10x_RTOS.map" -o .\Objects\STM32F10x_RTOS.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Objects\STM32F10x_RTOS.axf'
+### ADS-LD Command File: '.\Objects\STM32F10x_RTOS.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Objects\STM32F10x_RTOS.lnp', Handle=0x00000984
+### Writing '.lnp' file
+### ADS-LD Command file '.\Objects\STM32F10x_RTOS.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
